@@ -1,0 +1,6 @@
+# Environment
+.env
+# HAProxy
+haproxy/haproxy.cfg
+# Tailscale
+tailscale/
