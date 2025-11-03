@@ -1,6 +1,6 @@
 services:
   tailscale:
-    image: tailscale/tailscale:latest
+    image: tailscale/tailscale:stable
     container_name: tailscale-p4p
     hostname: clarence-p4d
     environment:
